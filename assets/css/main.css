@@ -2902,6 +2902,12 @@ input, select, textarea {
 	}
 
 /* Section/Article */
+	.fullstorypost {
+		text-align:center;
+	}
+	.fullstorypost h1 {
+		font-size:45px;
+	}
 
 	section.special, article.special {
 		text-align: center;
